@@ -1,5 +1,0 @@
-www.facebook.com: Dec 18 23:59:59 2022 GMT: 
-www.instagram.com: Dec 18 23:59:59 2022 GMT: 
-www.twitter.com: Feb  1 23:59:59 2023 GMT: 
-www.google.com: Jan 30 08:19:31 2023 GMT: 
-www.apple.com: May 19 15:49:59 2023 GMT: 

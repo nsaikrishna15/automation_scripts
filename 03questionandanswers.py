@@ -6,9 +6,17 @@ class Question:
     self.multipleChoiceOptions = multipleChoiceOptions
 
 quizQuestions = [
-  Question("What is India's capital city?", ["(a) Hyderabad", "(b) New Delhi", "(c) Bangalore", "(d) Mumbai"]),
-  Question("Who is the prime minister of India?", ["(a) Narendra Modi", "(b) Pranab Mukharji", "(c) Venkaiah Naidu", "(d) Amit Shah"]),
-  Question("Who is the present Indian Cricket Team Captain?", ["(a) KL Rahul", "(b) Virat Kohli", "(c) Rohit Sharma", "(d) Hardik Pandya"])
+  Question("What is your favourite colour?", ["(a) Red", "(b) Green", "(c) Blue", "(d) Orange"]),
+  Question("Who is your favorite mobile phone brand?", ["(a) Samsung", "(b) Apple", "(c) Huawei", "(d) Oneplus"]),
+  Question("Which cricket team do you like", ["(a) India", "(b) England", "(c) Australia", "(d) NewZealand"]),
+  Question("Whis season do you like the most", ["(a) Summer", "(b) Autumn", "(c) Winter ", "(d) Rainy"]),
+  Question("What is your favorite sport?", ["(a) Cricket", "(b) Hockey", "(c) Football", "(d) Basketball"]),
+  Question("What is your favorite web browser?", ["(a) Chrome", "(b) Firefox", "(c) Safari", "(d) MS-edge"]),
+  Question("In which cloud have you worked most?", ["(a) AWS", "(b) Azure", "(c) GCP", "(d) IBMCloud"]),
+  Question("Who is your favorite actor?", ["(a) Brad Pitt", "(b) Dwayne Johnson", "(c) Leonardo Decaprio", "(d)Matt damon "]),
+  Question("What operating system do you prefer?", ["(a) Windows", "(b) Mac", "(c) Ubuntu", "(d) Bsd"]),
+  Question("What is your age group?", ["(a) 10-25", "(b) 26-50", "(c) 51-70", "(d) 71-90"])
+
 ]
 
 answersSubmitted = []
